@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+
+.dark-button{
+  padding: 10px;
+  color: aliceblue;
+  background: #000;
+}
